@@ -1,2 +1,2 @@
-# Tower_Batlles_Macro
+# Tower_Battles_Macro
 Macro to earn free credits in tower battles!
