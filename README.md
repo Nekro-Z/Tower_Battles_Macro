@@ -1,7 +1,7 @@
 # Tower_Battles_Macro
 Macro to earn free credits in tower battles!
 
-You are required to download Autohotkey v2 for legacy version- https://www.autohotkey.com/download/ahk-v2.exe 
-But newer version moved to Autohotkey v1 because it works better - https://www.autohotkey.com/download/ahk-install.exe
+You are required to download Autohotkey v1.1 - https://www.autohotkey.com/download/ahk-install.exe
+But there is version for autohotkey v2 which is called Legacy , it works worse and has many issues - https://www.autohotkey.com/download/ahk-v2.exe 
 
 My Macro is completely open source so its possible to verify that its not a virus
