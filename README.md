@@ -1,4 +1,6 @@
 # Tower_Battles_Macro
+This will no longer be updated
+
 Macro to earn free credits in tower battles ( average of 381 credits per hour which is 3048 credits per your sleep!)
 
 You are required to download Autohotkey v1.1 - https://www.autohotkey.com/download/ahk-install.exe
